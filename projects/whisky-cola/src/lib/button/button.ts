@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-button',
+  selector: 'wcx-button',
   imports: [],
   templateUrl: './button.html',
   styleUrl: './button.scss',
 })
-export class Button {
+export class WcxButton {
 
 }
